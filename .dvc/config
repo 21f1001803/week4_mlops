@@ -1,5 +1,5 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gs://21f1001803_week3
+    url = gs://21f1001803_week4
     credentialpath = ../corded-actor-474217-s3-4b9b953268bf.json
